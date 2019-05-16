@@ -4,7 +4,7 @@
     "contentApiKey": "df4f6c0d8bca5147a4a0bf399d"
   },
   "production": {
-    "apiUrl": "cocky-raman-e06a11.netlify.com",
+    "apiUrl": "https://cocky-raman-e06a11.netlify.com",
     "contentApiKey": "df4f6c0d8bca5147a4a0bf399d"
   }
 }
